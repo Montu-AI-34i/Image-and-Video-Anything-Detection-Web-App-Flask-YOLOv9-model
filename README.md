@@ -18,7 +18,7 @@ Download yolov9 weigths and place in your Flask app code directory.
 5- Run the Python Script:
 Once you're in the directory containing your webapp.py file, run the following command: python webapp.py
 
-Above Static folder is there...
+Above Static folder is not there...
 
 Following these steps should launch your Flask web application, allowing you to access it through a web browser or any other HTTP client.
 ![vvv1](https://github.com/Montu-AI-34i/Image-and-Video-Anything-Detection-Web-App-Flask-YOLOv9-model/assets/142039686/6bfc4b7b-4a85-4d4a-8a25-8af797c70825)
